@@ -1,0 +1,19 @@
+# GitHub-friendly: keep live credentials + vendor IP out
+# (credentials: KN / tag-1 / raw sniff dumps / btsnoop)
+salto_dump.txt
+*_dump.txt
+btsnoop*
+bugreport/
+current_session.log
+device-apks/
+*.apk
+# vendor decompile output + apktool trees
+jadx-out/
+**/nus/
+# build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+firmware/.pio/
+node_modules/
+.DS_Store!apk/*.apk
