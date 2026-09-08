@@ -1,6 +1,6 @@
-# NUS Mobile Key — ESP32 door opener (Salto XS4 / JustIN BLE v0200)
+x# NXX Mobile Key — ESP32 door opener (Salto XS4 / JustIN BLE v0200)
 
-Reverse engineering of the **NUS Mobile Key** Android app (`com.trevo.nus`, built on the
+Reverse engineering of the **NXX Mobile Key** Android app (`com.trevo.nxx`, built on the
 **SaltOS JustIN Mobile SDK** at Salto XS4 One / E1722 locks) and a working ESP32 firmware
 that emulates the phone over BLE.
 
